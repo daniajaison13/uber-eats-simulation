@@ -1,1 +1,3 @@
-# uber-eats-simulation
+# Uber Eats Simulation
+
+This project involves the development of a food delivery system where both restaurants and customers undergo registration. The system bears resemblance to the Uber Eats application. The technology stack employed comprises Node.js (Express) for the backend, React for the frontend, MongoDB as the database, and Kafka serving as the message broker. Users have the option to register as either a customer or a restaurant. For restaurant users, functionalities include the addition, updating, and deletion of dishes, as well as the ability to view and update customer orders. Customers can browse and filter restaurants in their city, placing orders for dishes accordingly.
